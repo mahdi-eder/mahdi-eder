@@ -18,62 +18,62 @@ I build backend applications using Java and the Spring ecosystem, with a focus o
 
 
 
-Backend
+Backend:
 
 Java · Spring Framework · Spring Boot · REST APIs · Spring Security · JPA · Hibernate
 
 
 
 
-Databases
+Databases:
 
 PostgreSQL · SQL · MongoDB · Redis
 
 
 
 
-Messaging & Distributed Systems
+Messaging & Distributed Systems:
 
 Apache Kafka · Microservices
 
 
 
 
-Testing
+Testing:
 
 JUnit · Mockito · MockMvc · Testcontainers
 
 
 
 
-DevOps & Cloud
+DevOps & Cloud:
 
 Git · Linux · Docker · Kubernetes · CI/CD · AWS
 
 
 
 
-Software Engineering
+Software Engineering:
 
 SOLID · Design Patterns · Clean Architecture · DDD · System Design
 
 
 
-AI
+AI:
 
 Spring AI · RAG · Ollama
 
 
 
 
-📌 Featured Projects
+📌 Featured Projects:
 
 My repositories focus mainly on backend engineering, APIs, security, persistence, testing, distributed systems, and cloud-native development.
 
 
 
 
-🎯 Current Focus
+🎯 Current Focus:
 Java
   ↓
 Spring Boot
