@@ -1,4 +1,4 @@
-# Hi, I'm Mahdi Ider 👋
+# Hi, I'm Mahdi Eder 👋
 
 ### Java Backend Developer | Spring Boot | Backend Engineering
 
