@@ -1,104 +1,117 @@
-Hi, I'm Mahdi Eder 👋
+# Hi, I'm Mahdi Ider 👋
 
-Java Backend Developer | Spring Boot | Backend Engineering
+### Java Backend Developer | Spring Boot | Backend Engineering
 
-I build backend applications using Java and the Spring ecosystem, with a focus on clean, secure, maintainable, and scalable software.
+I am a Java Backend Developer focused on building clean, secure, maintainable, and scalable backend applications with Java and the Spring ecosystem.
 
-🚀 About Me
-💻 Focused on Java Backend Development
-🌱 Improving my skills through hands-on projects and technical challenges
-🔐 Interested in secure and production-ready backend applications
-🏗️ Interested in Microservices, Distributed Systems, and Software Architecture
-🧪 Focused on automated testing and code quality
-☁️ Learning and practicing Docker, Kubernetes, CI/CD, and AWS
-🤖 Exploring Spring AI, RAG, and AI-powered backend applications
-📚 Continuously improving my knowledge of System Design and Software Architecture
-🌍 Preparing for international software engineering opportunities
-🛠️ Tech Stack
+I enjoy turning backend concepts into practical projects and continuously improving my understanding of software engineering, system design, and distributed systems.
 
+---
 
+## 🧑‍💻 About Me
 
-Backend:
+- 💻 Focused on **Java Backend Development**
+- ☕ Strong focus on **Java and the Spring ecosystem**
+- 🌐 Building and practicing **RESTful APIs**
+- 🔐 Learning and implementing **authentication and authorization**
+- 🗄️ Working with relational and NoSQL databases
+- 🧪 Practicing automated testing and code quality
+- ⚙️ Exploring **Redis, Kafka, and Microservices**
+- 🐳 Learning containerization with **Docker**
+- ☁️ Developing knowledge of **Kubernetes, CI/CD, and AWS**
+- 🏗️ Improving my understanding of **System Design and Software Architecture**
+- 🤖 Exploring AI-powered backend applications with **Spring AI**
+- 🌍 Preparing for international software engineering opportunities
 
-Java · Spring Framework · Spring Boot · REST APIs · Spring Security · JPA · Hibernate
+---
 
+# 🛠️ Technical Skills
 
+## Backend Development
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+</p>
 
-Databases:
+**Java** · **Spring Framework** · **Spring Boot** · **Spring Security**  
+**Spring Data JPA** · **Hibernate** · **Maven** · **REST APIs**
 
-PostgreSQL · SQL · MongoDB · Redis
+---
 
+## Databases & Data
 
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" />
+</p>
 
+**PostgreSQL** · **SQL** · **MongoDB** · **Redis**
 
-Messaging & Distributed Systems:
+---
 
-Apache Kafka · Microservices
+## Messaging & Distributed Systems
 
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka" />
+</p>
 
+**Apache Kafka** · **Microservices** · **Event-Driven Architecture**
 
+---
 
-Testing:
+## Testing
 
-JUnit · Mockito · MockMvc · Testcontainers
+**JUnit** · **Mockito** · **MockMvc** · **Testcontainers**
 
+I focus on testing backend applications through unit, integration, and web-layer testing.
 
+---
 
+## DevOps & Cloud
 
-DevOps & Cloud:
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,git" />
+</p>
 
-Git · Linux · Docker · Kubernetes · CI/CD · AWS
+**Docker** · **Kubernetes** · **AWS** · **GitHub Actions**  
+**CI/CD** · **Linux** · **Git**
 
+---
 
+## Software Engineering
 
+**SOLID Principles** · **Design Patterns** · **Clean Code**  
+**Clean Architecture** · **Domain-Driven Design**  
+**System Design** · **Software Architecture**
 
-Software Engineering:
+---
 
-SOLID · Design Patterns · Clean Architecture · DDD · System Design
+## 🤖 AI & Modern Backend Development
 
+Currently exploring AI integration within Java backend applications using:
 
+**Spring AI** · **RAG** · **Ollama** · **Vector Databases**
 
-AI:
+---
 
-Spring AI · RAG · Ollama
+# 🚀 What I Build
 
+My projects primarily focus on backend engineering problems such as:
 
-
-
-📌 Featured Projects:
-
-My repositories focus mainly on backend engineering, APIs, security, persistence, testing, distributed systems, and cloud-native development.
-
-
-
-
-🎯 Current Focus:
-Java
-  ↓
-Spring Boot
-  ↓
-REST APIs + Security + Persistence
-  ↓
-Testing
-  ↓
-Redis + Kafka
-  ↓
-Microservices
-  ↓
-Docker + Kubernetes
-  ↓
-AWS + CI/CD
-  ↓
-System Design + Software Architecture
-
-
-
-
-📫 Connect With Me
-LinkedIn: www.linkedin.com/in/mahdi-eder
-Email: mahdi.eder1@gmail.com
-
-
-
-Build clearly. Test thoroughly. Improve continuously.
+```text
+RESTful APIs
+     │
+     ├── Authentication & Authorization
+     │
+     ├── Database Design & Persistence
+     │
+     ├── Validation & Exception Handling
+     │
+     ├── Caching
+     │
+     ├── Automated Testing
+     │
+     ├── Event-Driven Communication
+     │
+     ├── Microservices
+     │
+     └── Containerized Applications
